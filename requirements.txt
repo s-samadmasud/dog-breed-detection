@@ -1,8 +1,10 @@
-setuptools==75.8.0
-wheel==0.45.1
+setuptools
+wheel
 tensorflow 
 matplotlib 
 scikit-learn 
 numpy
 Flask 
 Werkzeug
+
+#pip install tensorflow==2.10.0 matplotlib==3.5.0 scikit-learn==1.2.0 numpy==1.23.0 Flask==2.2.0 Werkzeug==2.2.0
