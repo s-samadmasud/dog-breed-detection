@@ -9,7 +9,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Define your model path
-model_path = 'models/fine_tuned_inception.h5'  # Update with your model location
+model_path = 'fine_tuned_inception.h5'  # Update with your model location
 
 # Define class labels (modify if needed)
 class_labels = ['beagle', 'bulldog', 'dalmatian', 'german-shepherd', 'husky', 'labrador-retriever', 'poodle', 'rottweiler']
